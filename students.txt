@@ -1,0 +1,3 @@
+roll,name,dept,cgpa,status\
+BSAI-23-001,Alice Smith,AI,3.8,active\
+BSAI-23-002,Bob Jones,CS,2.5,inactive

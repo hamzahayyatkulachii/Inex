@@ -1,0 +1,2 @@
+roll,course_code,date,status\
+BSAI-23-001,AI101,15-09-2023,P

@@ -1,0 +1,2 @@
+roll,course_code,semester,status\
+BSAI-23-001,AI101,FA23,enrolled

@@ -1,0 +1,2 @@
+roll,semester,amount_due,amount_paid,due_date,paid_date\
+BSAI-23-001,FA23,50000,50000,01-09-2023,28-08-2023
